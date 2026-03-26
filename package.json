@@ -1,0 +1,27 @@
+{
+  "name": "mcu-datasheet-docs",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.38.2",
+    "astro": "^6.0.1",
+    "sharp": "^0.34.2"
+  },
+  "keywords": [
+    "mcu",
+    "datasheet",
+    "embedded",
+    "documentation",
+    "astro",
+    "starlight"
+  ],
+  "author": "lanwailan",
+  "license": "MIT"
+}
