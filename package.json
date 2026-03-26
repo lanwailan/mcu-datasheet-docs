@@ -1,0 +1,27 @@
+{
+  "name": "mcu-datasheet-docs",
+  "version": "1.0.0",
+  "description": "MCU 嵌入式领域 Datasheet 文档中心 - 基于 Astro + Starlight",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.38.2",
+    "astro": "^6.0.8"
+  },
+  "keywords": [
+    "mcu",
+    "datasheet",
+    "embedded",
+    "documentation",
+    "astro",
+    "starlight"
+  ],
+  "author": "lanwailan",
+  "license": "MIT"
+}
